@@ -1,2 +1,2 @@
-# ridemowa
-My_app
+# RideMowa Fresh
+Fresh Rider/Captain MVP connected to Supabase.
